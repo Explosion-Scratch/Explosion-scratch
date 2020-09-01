@@ -1,5 +1,5 @@
 # Hi!
-![--Explosion's GitHub followers](https://img.shields.io/github/followers/BoomerScratch?style=social)
+![--Explosion's GitHub followers](https://img.shields.io/github/followers/Explosion-Scratch?style=social)
 
 Hi there everyone! Welcome to my GitHub profile! 
 
