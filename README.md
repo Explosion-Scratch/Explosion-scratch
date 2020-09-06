@@ -3,4 +3,4 @@
 
 Hi there everyone! Welcome to my GitHub profile! 
 
-![stats](https://github-readme-stats.vercel.app/api?username=Explosion-Scratch&include_all_commits=true&show_icons=true&theme=merko&count_private=true&cache_seconds=1801)
+![stats](https://github-readme-stats.vercel.app/api?username=Explosion-Scratch&include_all_commits=true&show_icons=true&theme=merko&count_private=true&cache_seconds=1800)
