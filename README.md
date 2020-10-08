@@ -12,3 +12,4 @@ Hi there! Welcome to my website! I am a 14 year old coder, guitarist and an avid
 * [Javascript stuff](js-stuff.cf)
 * [My website](explosion.cf)
 * [ScratchAddons](scratchaddons.com)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Explosion-Scratch&repo=website)](https://github.com/explosion-scratch/website)
