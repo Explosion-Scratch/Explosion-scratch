@@ -1,4 +1,4 @@
-# Hi!
+# <div align="center">Hi!</div>
 ![--Explosion's GitHub followers](https://img.shields.io/github/followers/Explosion-Scratch?style=social)
 
 Hi there everyone! Welcome to my GitHub profile! 
