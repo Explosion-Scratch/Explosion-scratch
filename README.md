@@ -1,4 +1,5 @@
 # <div align="center">--Explosion--</div>
+<img src="https://komarev.com/ghpvc/?username=explosion-scratch" alt="Explosion-Scratch" />
 ![--Explosion's GitHub followers](https://img.shields.io/github/followers/Explosion-Scratch?style=social)
 
 Hi there everyone! Welcome to my GitHub profile! 
