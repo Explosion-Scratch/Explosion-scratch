@@ -1,6 +1,8 @@
 # <div align="center">--Explosion--</div>
 
-![--Explosion's GitHub followers](https://img.shields.io/github/followers/Explosion-Scratch?style=social) ![Explosion-Scratch's profile views](https://komarev.com/ghpvc/?username=explosion-scratch)
+![--Explosion's GitHub followers](https://img.shields.io/github/followers/Explosion-Scratch?color=00bbbb&style=for-the-badge&logo=github&logoColor=fff) 
+![Explosion-Scratch's profile views](https://komarev.com/ghpvc/?username=explosion-scratch&color=00bbbb)
+![Scratch Messages](https://img.shields.io/badge/dynamic/json?label=Scratch+Messages&query=count&url=https%3A%2F%2Fapi.scratch.mit.edu%2Fusers%2f--Explosion--%2Fmessages%2Fcount&color=00bbbb&style=for-the-badge&logo=scratch&logoColor=fff)
 
 Hi there everyone! Welcome to my GitHub profile! 
 
