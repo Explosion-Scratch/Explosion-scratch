@@ -1,8 +1,9 @@
 # <div align="center">--Explosion--</div>
 
 ![--Explosion's GitHub followers](https://img.shields.io/github/followers/Explosion-Scratch?color=00bbbb&style=for-the-badge&logo=github&logoColor=fff) 
-![Explosion-Scratch's profile views](https://komarev.com/ghpvc/?username=explosion-scratch&color=00bbbb)
 ![Scratch Messages](https://img.shields.io/badge/dynamic/json?label=Scratch+Messages&query=count&url=https%3A%2F%2Fapi.scratch.mit.edu%2Fusers%2f--Explosion--%2Fmessages%2Fcount&color=00bbbb&style=for-the-badge&logo=scratch&logoColor=fff)
+![GitHub visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=explosion-scratch.visitor.badge.reloaded&color=00bbbb&style=for-the-badge&logo=github)
+![Scratch followers rank](https://img.shields.io/badge/dynamic/json?style=for-the-badge&cacheSeconds=1&logoColor=fff&color=00bbbb&label=Followers%20rank:%20&logo=scratch&query=statistics.ranks.followers&url=https://scratchdb.lefty.one/v2/user/info/--explosion--)
 
 Hi there everyone! Welcome to my GitHub profile! 
 
