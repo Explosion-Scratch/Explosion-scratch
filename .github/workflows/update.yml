@@ -54,8 +54,12 @@ jobs:
               return e.replace(/<(.|\n)*?>/g, "").replace(/\W+/g, " ");
             }
           result-encoding: string
-      - name: Get result
-        run: cat start.md echo "${{steps.step.outputs.result}}" > README.md
+      - name: Set end.md
+        run: echo "${{steps.step.outputs.result}}" > end.md
+      - name: cat end.md and start.md
+        run: cat start.md end.md > README.md
+      - name: remove end.md
+        run: rm -f end.md
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "YEET DID IT WORK?!?!!"
