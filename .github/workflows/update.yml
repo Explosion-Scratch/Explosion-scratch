@@ -47,7 +47,7 @@ jobs:
             var converter = new showdown.Converter();
             let out =  converter.makeHtml(r);
             fs.writeFileSync('./test.md', out);
-            return "did it work";
+            return out;
             function clip(str, length = 150){
               let e = str.slice(0, length);
               e += e.length == length ? "..." : "";
