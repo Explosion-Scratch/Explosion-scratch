@@ -27,6 +27,7 @@ Hi there! Welcome! I am a 15 year old coder, guitarist and an avid reader! I rea
 
 ## Recent activity
 <ul>
+<li><p>opened a <a href=https://github.com/Bijou-js/Bijou.js/pull/238>pull request</a> in <a href=https://github.com/Bijou-js/Bijou.js>Bijou-js/Bijou.js</a></p></li>
 <li><p><a href=https://github.com/Explosion-Scratch/Explosion-scratch/commit/4134835caabd6dfb047fddfe663438eb75ff2e78><code>4134835caabd6dfb047fddfe663438eb75ff2e78</code></a>– Update update.yml (<a href=https://github.com/Explosion-Scratch/Explosion-scratch>Explosion-Scratch/Explosion-scratch</a>)</p></li>
 <li><p><a href=https://github.com/Explosion-Scratch/Explosion-scratch/commit/ef3caab68bbf62e25412b7d49cf257dd73596cd2><code>ef3caab68bbf62e25412b7d49cf257dd73596cd2</code></a>– YEET DID IT WORK?!?!! (<a href=https://github.com/Explosion-Scratch/Explosion-scratch>Explosion-Scratch/Explosion-scratch</a>)</p></li>
 <li><p><a href=https://github.com/Explosion-Scratch/Explosion-scratch/commit/9a2defe556bda885fe0879109756fa9926d2657a><code>9a2defe556bda885fe0879109756fa9926d2657a</code></a>– YEET DID IT WORK?!?!! (<a href=https://github.com/Explosion-Scratch/Explosion-scratch>Explosion-Scratch/Explosion-scratch</a>)</p></li>
@@ -55,5 +56,4 @@ Hi there! Welcome! I am a 15 year old coder, guitarist and an avid reader! I rea
 <li><p><a href=https://github.com/Explosion-Scratch/Explosion-scratch/commit/72c3c8f749ffa1874e5bdcc61f4cab663daf0a03><code>72c3c8f749ffa1874e5bdcc61f4cab663daf0a03</code></a>– Update update.yml (<a href=https://github.com/Explosion-Scratch/Explosion-scratch>Explosion-Scratch/Explosion-scratch</a>)</p></li>
 <li><p><a href=https://github.com/Explosion-Scratch/Explosion-scratch/commit/0172f74c91d065713c68ff3e5c6ba448db746414><code>0172f74c91d065713c68ff3e5c6ba448db746414</code></a>– Update update.yml (<a href=https://github.com/Explosion-Scratch/Explosion-scratch>Explosion-Scratch/Explosion-scratch</a>)</p></li>
 <li><p>opened a <a href=https://github.com/Bijou-js/Bijou.js/pull/236>pull request</a> in <a href=https://github.com/Bijou-js/Bijou.js>Bijou-js/Bijou.js</a></p></li>
-<li><p><a href=https://github.com/Explosion-Scratch/Explosion-scratch/commit/9c1382b70e7fdc4400358f62e462b4761fa0b151><code>9c1382b70e7fdc4400358f62e462b4761fa0b151</code></a>– Create update.yml (<a href=https://github.com/Explosion-Scratch/Explosion-scratch>Explosion-Scratch/Explosion-scratch</a>)</p></li>
 </ul>
