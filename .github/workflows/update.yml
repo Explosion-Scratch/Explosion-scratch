@@ -55,7 +55,7 @@ jobs:
             }
           result-encoding: string
       - name: Get result
-        run: echo "${{steps.step.outputs.result}}" > test.md
+        run: cat start.md echo "${{steps.step.outputs.result}}" > README.md
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "YEET DID IT WORK?!?!!"
