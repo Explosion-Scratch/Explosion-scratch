@@ -12,7 +12,7 @@ jobs:
           script: |
             const fetch = require("node-fetch");
             const showdown = require("showdown");
-            let r = await fetch("/res.txt").then((res) => res.json());
+            let r = await fetch("https://api.github.com/users/explosion-scratch/events").then((res) => res.json());
             console.log(r);
             r = r
               .map((i) => {
@@ -52,3 +52,4 @@ jobs:
           result-encoding: string
       - name: Get result
         run: echo "${{steps.step.outputs.result}}"
+      - run: rm -f test.md
