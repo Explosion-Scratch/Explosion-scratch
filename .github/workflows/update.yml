@@ -54,13 +54,7 @@ jobs:
             */
           result-encoding: string
       - name: Get result
-        run: |
-          content="Testing\n
-            multiline"
-          content="${content//'%'/'%25'}"
-          content="${content//$'\n'/'%0A'}"
-          content="${content//$'\r'/'%0D'}"
-          echo $content > test.md
+        run: echo "testing" > test.md
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "YEET DID IT WORK?!?!!"
