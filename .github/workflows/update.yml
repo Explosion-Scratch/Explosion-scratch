@@ -13,7 +13,6 @@ jobs:
             const fetch = require("node-fetch");
             const showdown = require("showdown");
             let r = await fetch("https://api.github.com/users/explosion-scratch/events").then((res) => res.json());
-            console.log(r);
             r = r
               .map((i) => {
                 if (i.type === "PushEvent") {
@@ -25,31 +24,27 @@ jobs:
                   })<blockquote>${i.payload.comment.body.clip()}</blockquote>`;
                 }
                 if (i.type === "PullRequestEvent") {
-                  console.log(
-                    i.payload.pull_request.merged_by.login,
-                    i.payload.pull_request.merged_at,
-                    i.created_at,
-                  );
-                  console.log(
-                    i.payload.pull_request.merged_by.login === "Explosion-Scratch" &&
+                  let act;
+                  if (i.payload.pull_request.merged_by) {
+                    act =
+                      i.payload.pull_request.merged_by.login === "Explosion-Scratch" &&
                       i.payload.pull_request.merged_at.slice(0, 16) ===
-                        i.created_at.slice(0, 16),
-                  );
-                  return `- ${
-                    i.payload.pull_request.merged_by.login === "Explosion-Scratch" &&
-                    i.payload.pull_request.merged_at.slice(0, 16) ===
-                      i.created_at.slice(0, 16)
-                      ? "Merged"
-                      : i.payload.action
-                  } a [pull request](${i.payload.pull_request.html_url}) in [${
-                    i.repo.name
-                  }](https://github.com/${i.repo.name})`;
+                        i.created_at.slice(0, 16)
+                        ? "Merged"
+                        : i.payload.action;
+                  } else {
+                    act = i.payload.action;
+                  }
+                  return `- ${act} a [pull request](${i.payload.pull_request.html_url}) in [${i.repo.name}](https://github.com/${i.repo.name})`;
                 }
               })
               .join("\n");
             var converter = new showdown.Converter();
             return converter.makeHtml(r);
           result-encoding: string
-      - name: Get result
-        run: echo "${{steps.step.outputs.result}}"
       - run: rm -f test.md
+      - name: Get result
+        run: echo "${{steps.step.outputs.result}}" > "test.md"
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "YEET DID IT WORK?!?!!"
