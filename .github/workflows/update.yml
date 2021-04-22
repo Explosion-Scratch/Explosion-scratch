@@ -8,7 +8,9 @@ jobs:
         id: step
         with:
           github-token: ${{secrets.GITHUB_TOKEN}}
-          script: return (await fetch("https://apis.explosionscratc.repl.co/uuid?limit=1").then(res => res.json()))[0]
+          script: |
+            const fetch = require("node-fetch");
+            return (await fetch("https://apis.explosionscratc.repl.co/uuid?limit=1").then(res => res.json()))[0]
           result-encoding: string
       - name: Get result
         run: echo "${{steps.step.outputs.result}}"
