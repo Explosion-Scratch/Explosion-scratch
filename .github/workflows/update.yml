@@ -21,7 +21,7 @@ jobs:
                 if (i.type === "IssueCommentEvent" && i.payload.action === "created") {
                   return `- Commented in [${i.repo.name}](${
                     i.payload.comment.html_url
-                  })<blockquote>${i.payload.comment.body.clip()}</blockquote>`;
+                  })<blockquote>${clip(i.payload.comment.body)}</blockquote>`;
                 }
                 if (i.type === "PullRequestEvent") {
                   let act;
@@ -41,6 +41,11 @@ jobs:
               .join("\n");
             var converter = new showdown.Converter();
             return converter.makeHtml(r);
+            function clip(str, length = 150){
+              let e = str.slice(0, length);
+              e += e.length == length ? "..." : "";
+              return e.replace(/<(.|\n)*?>/g, "").replace(/\W+/g, " ");
+            }
           result-encoding: string
       - run: rm -f test.md
       - name: Get result
