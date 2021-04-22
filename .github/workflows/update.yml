@@ -1,0 +1,14 @@
+on: [workflow_dispatch, push]
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/github-script@v4
+        id: step
+        with:
+          github-token: ${{secrets.GITHUB_TOKEN}}
+          script: return (await fetch("https://apis.explosionscratc.repl.co/uuid?limit=1").then(res => res.json())[0]
+          result-encoding: string
+      - name: Get result
+        run: echo "${{steps.step.outputs.result}}"
