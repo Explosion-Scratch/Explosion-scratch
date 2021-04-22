@@ -55,7 +55,8 @@ jobs:
           result-encoding: string
       - name: Get result
         run: |
-          content="${{ steps.step.output.result }}"
+          content="Testing\n
+            multiline"
           content="${content//'%'/'%25'}"
           content="${content//$'\n'/'%0A'}"
           content="${content//$'\r'/'%0D'}"
