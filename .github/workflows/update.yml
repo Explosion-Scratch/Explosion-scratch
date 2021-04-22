@@ -50,7 +50,6 @@ jobs:
               return e.replace(/<(.|\n)*?>/g, "").replace(/\W+/g, " ");
             }
           result-encoding: string
-      - run: rm -f test.md
       - name: Get result
         run: echo "${{steps.step.outputs.result}}"
       - uses: stefanzweifel/git-auto-commit-action@v4
