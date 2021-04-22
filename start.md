@@ -24,3 +24,5 @@ Hi there! Welcome! I am a 15 year old coder, guitarist and an avid reader! I rea
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?height=100&username=Explosion-Scratch&repo=ripple&theme=prussian)](https://github.com/explosion-scratch/ripple)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?height=100&username=Explosion-Scratch&repo=notes&theme=prussian)](https://notes.explosionscratc.repl.co)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?height=100&username=Explosion-Scratch&repo=api&theme=prussian)](https://github.com/explosion-scratch/api)
+
+## Recent activity
