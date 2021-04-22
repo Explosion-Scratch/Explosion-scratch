@@ -11,6 +11,7 @@ jobs:
           github-token: ${{secrets.GITHUB_TOKEN}}
           script: |
             const fetch = require("node-fetch");
+            const fs = require("fs")
             const showdown = require("showdown");
             let r = await fetch("https://api.github.com/users/explosion-scratch/events").then((res) => res.json());
             r = r
@@ -40,7 +41,9 @@ jobs:
               })
               .join("\n");
             var converter = new showdown.Converter();
-            return converter.makeHtml(r);
+            let out =  converter.makeHtml(r);
+            fs.writeFileSync('./test.md', out);
+            return "did it work";
             function clip(str, length = 150){
               let e = str.slice(0, length);
               e += e.length == length ? "..." : "";
@@ -49,7 +52,7 @@ jobs:
           result-encoding: string
       - run: rm -f test.md
       - name: Get result
-        run: echo "${{steps.step.outputs.result}}" > "test.md"
+        run: echo "${{steps.step.outputs.result}}"
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "YEET DID IT WORK?!?!!"
