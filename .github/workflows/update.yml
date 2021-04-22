@@ -10,10 +10,7 @@ jobs:
         with:
           github-token: ${{secrets.GITHUB_TOKEN}}
           script: |
-            return `Testing
-            multiline
-            files
-            `
+            return "Hello werld\nyeet\nyay"
             /*
             const fetch = require("node-fetch");
             const fs = require("fs")
