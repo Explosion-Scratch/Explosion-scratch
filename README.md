@@ -27,6 +27,7 @@ Hi there! Welcome! I am a 15 year old coder, guitarist and an avid reader! I rea
 
 ## Recent activity
 <ul>
+<li><p><a href=https://github.com/Explosion-Scratch/Explosion-scratch/commit/9a2defe556bda885fe0879109756fa9926d2657a><code>9a2defe556bda885fe0879109756fa9926d2657a</code></a>– YEET DID IT WORK?!?!! (<a href=https://github.com/Explosion-Scratch/Explosion-scratch>Explosion-Scratch/Explosion-scratch</a>)</p></li>
 <li><p><a href=https://github.com/Explosion-Scratch/Explosion-scratch/commit/2e1a9272f36c468b0ea148ca4dbcb2d346bf194c><code>2e1a9272f36c468b0ea148ca4dbcb2d346bf194c</code></a>– Update update.yml (<a href=https://github.com/Explosion-Scratch/Explosion-scratch>Explosion-Scratch/Explosion-scratch</a>)</p></li>
 <li><p><a href=https://github.com/Explosion-Scratch/Explosion-scratch/commit/26c1edec6c1131ac287a1016bf9a6859ff5f7c06><code>26c1edec6c1131ac287a1016bf9a6859ff5f7c06</code></a>– Update update.yml (<a href=https://github.com/Explosion-Scratch/Explosion-scratch>Explosion-Scratch/Explosion-scratch</a>)</p></li>
 <li><p><a href=https://github.com/Bijou-js/Bijou.js/commit/0a14b64ea5b28c0e3f206662f250398dc917da48><code>0a14b64ea5b28c0e3f206662f250398dc917da48</code></a>– Update build.yml (<a href=https://github.com/Bijou-js/Bijou.js>Bijou-js/Bijou.js</a>)</p></li>
@@ -54,5 +55,4 @@ Hi there! Welcome! I am a 15 year old coder, guitarist and an avid reader! I rea
 <li><p>opened a <a href=https://github.com/Bijou-js/Bijou.js/pull/236>pull request</a> in <a href=https://github.com/Bijou-js/Bijou.js>Bijou-js/Bijou.js</a></p></li>
 <li><p><a href=https://github.com/Explosion-Scratch/Explosion-scratch/commit/9c1382b70e7fdc4400358f62e462b4761fa0b151><code>9c1382b70e7fdc4400358f62e462b4761fa0b151</code></a>– Create update.yml (<a href=https://github.com/Explosion-Scratch/Explosion-scratch>Explosion-Scratch/Explosion-scratch</a>)</p></li>
 <li><p><a href=https://github.com/Bijou-js/Bijou.js/commit/8905a1d1d1cda7064d6d77447a75713e26428037><code>8905a1d1d1cda7064d6d77447a75713e26428037</code></a>– Build and compile https://github.com/Bijou-js/Bijou.js/tree/main (#235) (<a href=https://github.com/Bijou-js/Bijou.js>Bijou-js/Bijou.js</a>)</p></li>
-<li><p>Merged a <a href=https://github.com/Bijou-js/Bijou.js/pull/235>pull request</a> in <a href=https://github.com/Bijou-js/Bijou.js>Bijou-js/Bijou.js</a></p></li>
 </ul>
