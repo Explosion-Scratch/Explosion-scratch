@@ -4,6 +4,10 @@ jobs:
   run:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+         ref: ${{ github.head_ref }}
       - run: npm i node-fetch showdown
       - uses: actions/github-script@v4
         id: step
