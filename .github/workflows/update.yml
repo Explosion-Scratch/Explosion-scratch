@@ -11,12 +11,13 @@ jobs:
         uses: actions/checkout@v2
         with:
          ref: ${{ github.head_ref }}
-      - run: npm i node-fetch showdown markdown-escape
+      - run: npm i node-fetch showdown markdown-escape bijou.js
       - uses: actions/github-script@v4
         id: step
         with:
           github-token: ${{secrets.GITHUB_TOKEN}}
           script: |
+            const _$ = require("bijou.js")
             const fetch = require("node-fetch");
             const fs = require("fs")
             var escape = require('markdown-escape')
@@ -25,7 +26,7 @@ jobs:
             r = r
               .map((i) => {
                 if (i.type === "PushEvent") {
-                  return `- [\`${i.payload.commits[0].sha}\`](https://github.com/${
+                  return `- ${_$.formatMilliseconds(Date.now() - (new Date(i.created_at)).getTime())} – [\`${i.payload.commits[0].sha}\`](https://github.com/${
                     i.repo.name
                   }/commit/${i.payload.commits[0].sha})– ${
                     escape(i.payload.commits[0].message.split("\n")[0])
@@ -43,7 +44,7 @@ jobs:
                   } else {
                     act = i.payload.action;
                   }
-                  return `- ${act} a [pull request](${i.payload.pull_request.html_url}) in [${i.repo.name}](https://github.com/${i.repo.name})`;
+                  return `- ${_$.formatMilliseconds(Date.now() - (new Date(i.created_at)).getTime())} – ${act} a [pull request](${i.payload.pull_request.html_url}) in [${i.repo.name}](https://github.com/${i.repo.name})`;
                 }
               })
               .join("\n");
