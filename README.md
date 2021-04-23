@@ -27,33 +27,16 @@ Hi there! Welcome! I am a 15 year old coder, guitarist and an avid reader! I rea
 
 ## Recent activity
 <ul>
-<li><a href="https://github.com/Explosion-Scratch/Explosion-scratch/commit/0953d78cfcbc315c96aaa945b3dc22f8fdb939e4"><code>0953d78cfcbc315c96aaa945b3dc22f8fdb939e4</code></a>– Update update.yml (<a href="https://github.com/Explosion-Scratch/Explosion-scratch">Explosion-Scratch/Explosion-scratch</a>)</li>
-<li><a href="https://github.com/Explosion-Scratch/Explosion-scratch/commit/a5757d29fce5b4ba729f5b280aa616a9eefaeecb"><code>a5757d29fce5b4ba729f5b280aa616a9eefaeecb</code></a>– Update update.yml (<a href="https://github.com/Explosion-Scratch/Explosion-scratch">Explosion-Scratch/Explosion-scratch</a>)</li>
-<li><a href="https://github.com/Bijou-js/Bijou.js/commit/9cd2eec333e41ab455ec63b6511383164bf2e94d"><code>9cd2eec333e41ab455ec63b6511383164bf2e94d</code></a>– Automated build (#236)</li>
-</ul>
-<p>Co-authored-by: Explosion-Scratch <a href="&#109;&#97;&#105;&#108;&#x74;&#x6f;&#58;&#x65;&#x78;&#112;&#x6c;&#111;&#115;&#x69;&#x6f;&#110;&#115;&#99;r&#x61;&#116;&#99;h&#64;&#x67;&#109;&#97;i&#108;&#x2e;&#99;&#111;&#109;">&#x65;&#x78;p&#x6c;&#111;&#115;&#x69;&#x6f;&#x6e;&#x73;&#x63;&#x72;&#x61;&#x74;c&#104;&#x40;&#103;&#x6d;&#97;&#x69;&#108;&#x2e;&#x63;&#x6f;&#109;</a> (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p>
-<ul>
+<li><p><a href="https://github.com/Explosion-Scratch/Explosion-scratch/commit/f067d75cf58d946437f38932aadba162d750d930"><code>f067d75cf58d946437f38932aadba162d750d930</code></a>– Update update.yml (<a href="https://github.com/Explosion-Scratch/Explosion-scratch">Explosion-Scratch/Explosion-scratch</a>)</p></li>
+<li><p><a href="https://github.com/Explosion-Scratch/Explosion-scratch/commit/0953d78cfcbc315c96aaa945b3dc22f8fdb939e4"><code>0953d78cfcbc315c96aaa945b3dc22f8fdb939e4</code></a>– Update update.yml (<a href="https://github.com/Explosion-Scratch/Explosion-scratch">Explosion-Scratch/Explosion-scratch</a>)</p></li>
+<li><p><a href="https://github.com/Explosion-Scratch/Explosion-scratch/commit/a5757d29fce5b4ba729f5b280aa616a9eefaeecb"><code>a5757d29fce5b4ba729f5b280aa616a9eefaeecb</code></a>– Update update.yml (<a href="https://github.com/Explosion-Scratch/Explosion-scratch">Explosion-Scratch/Explosion-scratch</a>)</p></li>
+<li><p><a href="https://github.com/Bijou-js/Bijou.js/commit/9cd2eec333e41ab455ec63b6511383164bf2e94d"><code>9cd2eec333e41ab455ec63b6511383164bf2e94d</code></a>– Automated build (#236) (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p></li>
 <li><p>Merged a <a href="https://github.com/Bijou-js/Bijou.js/pull/236">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
 <li><p><a href="https://github.com/Bijou-js/Bijou.js/commit/eb2f4b42ebd3acb2a63b8fb007e39440c86a4a79"><code>eb2f4b42ebd3acb2a63b8fb007e39440c86a4a79</code></a>– [Release] :facepalm: (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p></li>
-<li><p><a href="https://github.com/Bijou-js/Bijou.js/commit/e591d6047de0747e316ac3e7357fe0e2f572afd5"><code>e591d6047de0747e316ac3e7357fe0e2f572afd5</code></a>– <a href="[Bijou-js/Bijou.js](https://github.com/Bijou-js/Bijou.js)">Release</a></p></li>
-<li><p><a href="https://github.com/Bijou-js/Bijou.js/commit/18fbf87c7d06bc9b440b093cffe2d6eff2f9f23a"><code>18fbf87c7d06bc9b440b093cffe2d6eff2f9f23a</code></a>– Build and compile #238 (#239)</p></li>
-<li><p>Update _end.js</p></li>
-<li><p>Automated build</p></li>
-<li><p>Update package.json</p></li>
-<li><p>Update package.json</p></li>
-<li><p>Update package.json</p></li>
-<li><p>Automated build</p></li>
-<li><p>Automated build</p></li>
-<li><p>Automated build</p></li>
-</ul>
-<p>Co-authored-by: --Explosion-- <a href="&#x6d;&#x61;&#x69;&#108;&#116;&#111;&#58;e&#x78;&#112;&#108;&#x6f;&#x73;&#x69;&#x6f;&#x6e;.s&#x63;&#114;&#x61;&#116;&#99;&#104;&#64;&#103;m&#97;&#x69;&#x6c;&#x2e;&#99;&#111;&#x6d;">&#x65;&#120;&#112;&#x6c;o&#115;i&#x6f;&#x6e;&#46;&#x73;&#x63;&#x72;&#97;t&#99;&#104;&#64;&#x67;&#109;a&#105;&#108;&#x2e;&#99;&#111;&#x6d;</a>
-Co-authored-by: Explosion-Scratch <a href="&#x6d;&#x61;&#x69;l&#116;&#111;&#58;&#101;&#120;&#112;&#108;&#x6f;&#x73;&#105;&#111;&#110;s&#x63;&#x72;a&#x74;&#x63;&#x68;&#x40;&#103;&#x6d;&#97;&#105;&#x6c;&#x2e;&#x63;&#x6f;&#x6d;">e&#120;&#112;&#108;&#x6f;&#x73;&#105;&#x6f;&#110;&#x73;&#x63;&#114;a&#x74;&#99;&#x68;&#x40;&#103;&#x6d;&#97;&#105;&#x6c;&#x2e;&#x63;&#x6f;&#109;</a> (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p>
-<ul>
-<li>Merged a <a href="https://github.com/Bijou-js/Bijou.js/pull/239">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></li>
-<li><a href="https://github.com/Bijou-js/Bijou.js/commit/c67e7e88dc7f3ecd7dd6f8e506588e8ecec9453a"><code>c67e7e88dc7f3ecd7dd6f8e506588e8ecec9453a</code></a>– [Release]</li>
-</ul>
-<p>Releasing 🎉 (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p>
-<ul>
+<li><p><a href="https://github.com/Bijou-js/Bijou.js/commit/e591d6047de0747e316ac3e7357fe0e2f572afd5"><code>e591d6047de0747e316ac3e7357fe0e2f572afd5</code></a>– [Release] (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p></li>
+<li><p><a href="https://github.com/Bijou-js/Bijou.js/commit/18fbf87c7d06bc9b440b093cffe2d6eff2f9f23a"><code>18fbf87c7d06bc9b440b093cffe2d6eff2f9f23a</code></a>– Build and compile #238 (#239) (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p></li>
+<li><p>Merged a <a href="https://github.com/Bijou-js/Bijou.js/pull/239">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
+<li><p><a href="https://github.com/Bijou-js/Bijou.js/commit/c67e7e88dc7f3ecd7dd6f8e506588e8ecec9453a"><code>c67e7e88dc7f3ecd7dd6f8e506588e8ecec9453a</code></a>– [Release] (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p></li>
 <li><p>Merged a <a href="https://github.com/Bijou-js/Bijou.js/pull/238">pull request</a> in <a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a></p></li>
 <li><p><a href="https://github.com/Bijou-js/Bijou.js/commit/208ac76ea96b7f07b0f3c54cb5733d7ff805747c"><code>208ac76ea96b7f07b0f3c54cb5733d7ff805747c</code></a>– Update package.json (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p></li>
 <li><p><a href="https://github.com/Bijou-js/Bijou.js/commit/5c649dbc60057d516da5fdf01a5dc93f7bbfe382"><code>5c649dbc60057d516da5fdf01a5dc93f7bbfe382</code></a>– Update package.json (<a href="https://github.com/Bijou-js/Bijou.js">Bijou-js/Bijou.js</a>)</p></li>
@@ -70,5 +53,4 @@ Co-authored-by: Explosion-Scratch <a href="&#x6d;&#x61;&#x69;l&#116;&#111;&#58;&
 <li><p><a href="https://github.com/Explosion-Scratch/Explosion-scratch/commit/a1cfdbaff7657659ca04d9e8b88ac413332e5c00"><code>a1cfdbaff7657659ca04d9e8b88ac413332e5c00</code></a>– Update and rename README.md to start.md (<a href="https://github.com/Explosion-Scratch/Explosion-scratch">Explosion-Scratch/Explosion-scratch</a>)</p></li>
 <li><p><a href="https://github.com/Explosion-Scratch/Explosion-scratch/commit/d3d8886a7e78ffbfa87214fbeba32a80b1a2bb55"><code>d3d8886a7e78ffbfa87214fbeba32a80b1a2bb55</code></a>– Update update.yml (<a href="https://github.com/Explosion-Scratch/Explosion-scratch">Explosion-Scratch/Explosion-scratch</a>)</p></li>
 <li><p><a href="https://github.com/Explosion-Scratch/Explosion-scratch/commit/93fe7e9fdce67009edd9d5131e0675fb20be2403"><code>93fe7e9fdce67009edd9d5131e0675fb20be2403</code></a>– Update update.yml (<a href="https://github.com/Explosion-Scratch/Explosion-scratch">Explosion-Scratch/Explosion-scratch</a>)</p></li>
-<li><p><a href="https://github.com/Explosion-Scratch/Explosion-scratch/commit/eddc316ac5ded2549170fd1a04d1895ad38ff48b"><code>eddc316ac5ded2549170fd1a04d1895ad38ff48b</code></a>– Update update.yml (<a href="https://github.com/Explosion-Scratch/Explosion-scratch">Explosion-Scratch/Explosion-scratch</a>)</p></li>
 </ul>
