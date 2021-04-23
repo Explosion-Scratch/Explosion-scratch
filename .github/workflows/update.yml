@@ -11,7 +11,7 @@ jobs:
         uses: actions/checkout@v2
         with:
          ref: ${{ github.head_ref }}
-      - run: npm i node-fetch showdown
+      - run: npm i node-fetch showdown markdown-escape
       - uses: actions/github-script@v4
         id: step
         with:
@@ -19,17 +19,17 @@ jobs:
           script: |
             const fetch = require("node-fetch");
             const fs = require("fs")
+            var escape = require('markdown-escape')
             const showdown = require("showdown");
             let r = await fetch("https://api.github.com/users/explosion-scratch/events").then((res) => res.json());
             r = r
               .map((i) => {
                 if (i.type === "PushEvent") {
-                  return `- [\`${i.payload.commits[0].sha}\`](https://github.com/${i.repo.name}/commit/${i.payload.commits[0].sha})– ${i.payload.commits[0].message} ([${i.repo.name}](https://github.com/${i.repo.name}))`;
-                }
-                if (i.type === "IssueCommentEvent" && i.payload.action === "created") {
-                  return `- Commented in [${i.repo.name}](${
-                    i.payload.comment.html_url
-                  })<blockquote>${clip(i.payload.comment.body)}</blockquote>`;
+                  return `- [\`${i.payload.commits[0].sha}\`](https://github.com/${
+                    i.repo.name
+                  }/commit/${i.payload.commits[0].sha})– ${
+                    escape(i.payload.commits[0].message.split("\n")[0])
+                  } ([${i.repo.name}](https://github.com/${i.repo.name}))`;
                 }
                 if (i.type === "PullRequestEvent") {
                   let act;
