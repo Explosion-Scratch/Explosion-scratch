@@ -25,6 +25,5 @@ Hi there! Welcome! I am a 15 year old coder, guitarist and an avid reader! I rea
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?height=100&username=Explosion-Scratch&repo=notes&theme=prussian)](https://notes.explosionscratc.repl.co)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?height=100&username=Explosion-Scratch&repo=api&theme=prussian)](https://github.com/explosion-scratch/api)
 
-## Join my guilded server:
-[(See this great guide for guilded vs discord, btw guilded also has a webapp, just login)](https://www.streamscheme.com/discord-vs-guilded-which-should-you-use/)
-[![image](https://user-images.githubusercontent.com/61319150/120203717-a2f04f80-c1ed-11eb-925a-b9c815d33294.png)](https://guilded.gg/explosion)
+## Don't join my guilded server
+I'm all done with guilded, it's a discord ripoff lmao. Instead contact me on discord (@--Explosion--#0001)
