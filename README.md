@@ -20,6 +20,6 @@ Hi there! Welcome! I am a 15 year old coder, guitarist and an avid reader! I rea
 ##  <img src="https://www.vhv.rs/dpng/d/433-4335411_work-work-icon-png-transparent-png.png" width="15px"/> Stuff I'm working on
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?height=100&username=bijoujs&repo=Bijou.js&theme=prussian)](https://bijou.js.org)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?height=100&username=Explosion-Scratch&repo=colorizer&theme=prussian)](https://github.com/explosion-scratch/ripple)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?height=100&username=Explosion-Scratch&repo=discord_bot&theme=prussian)](https://notes.explosionscratc.repl.co)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?height=100&username=Explosion-Scratch&repo=extensions&theme=prussian)](https://github.com/explosion-scratch/api)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?height=100&username=Explosion-Scratch&repo=colorizer&theme=prussian)](https://github.com/explosion-scratch/colorizer)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?height=100&username=Explosion-Scratch&repo=discord_bot&theme=prussian)](https://github.com/explosion-scratch/discord_bot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?height=100&username=Explosion-Scratch&repo=extensions&theme=prussian)](https://github.com/explosion-scratch/extensions)
