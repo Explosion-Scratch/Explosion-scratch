@@ -1,7 +1,6 @@
 # <div align="center">--Explosion--</div>
 
 ![--Explosion's GitHub followers](https://img.shields.io/github/followers/Explosion-Scratch?color=00bbbb&style=for-the-badge&logo=github&logoColor=fff) 
-![Scratch Messages](https://img.shields.io/badge/dynamic/json?label=Scratch+Messages&query=count&url=https%3A%2F%2Fapi.scratch.mit.edu%2Fusers%2f--Explosion--%2Fmessages%2Fcount&color=00bbbb&style=for-the-badge&logo=scratch&logoColor=fff)
 ![GitHub visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=explosion-scratch.visitor.badge.reloaded&color=00bbbb&style=for-the-badge&logo=github)
 ![Scratch followers rank](https://img.shields.io/badge/dynamic/json?style=for-the-badge&cacheSeconds=1&logoColor=fff&color=00bbbb&label=Followers%20rank:%20&logo=scratch&query=statistics.ranks.followers&url=https://scratchdb.lefty.one/v2/user/info/--explosion--)
 
@@ -24,6 +23,3 @@ Hi there! Welcome! I am a 15 year old coder, guitarist and an avid reader! I rea
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?height=100&username=Explosion-Scratch&repo=ripple&theme=prussian)](https://github.com/explosion-scratch/ripple)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?height=100&username=Explosion-Scratch&repo=notes&theme=prussian)](https://notes.explosionscratc.repl.co)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?height=100&username=Explosion-Scratch&repo=api&theme=prussian)](https://github.com/explosion-scratch/api)
-
-## Don't join my guilded server
-I'm all done with guilded, it's a discord ripoff lmao. Instead contact me on discord (@--Explosion--#0001)
