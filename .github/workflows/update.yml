@@ -1,8 +1,8 @@
 on:
-  #push:
-  #workflow_dispatch:
-  #schedule:
-    #- cron: "*/6 * * * *"
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/6 * * * *"
 
 jobs:
   run:
