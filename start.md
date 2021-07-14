@@ -2,12 +2,11 @@
 
 ![--Explosion's GitHub followers](https://img.shields.io/github/followers/Explosion-Scratch?color=00bbbb&style=for-the-badge&logo=github&logoColor=fff) 
 ![GitHub visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=explosion-scratch.visitor.badge.reloaded&color=00bbbb&style=for-the-badge&logo=github)
-![Scratch followers rank](https://img.shields.io/badge/dynamic/json?style=for-the-badge&cacheSeconds=1&logoColor=fff&color=00bbbb&label=Followers%20rank:%20&logo=scratch&query=statistics.ranks.followers&url=https://scratchdb.lefty.one/v2/user/info/--explosion--)
 
 Hi there everyone! Welcome to my GitHub profile! 
 
 ##  <img src="https://static.thenounproject.com/png/5639-200.png" alt="Statistics Icons - Download Free Vector Icons | Noun Project" width="15px"/> My stats
-![stats](https://github-readme-stats.vercel.app/api?username=Explosion-Scratch&include_all_commits=true&show_icons=true&theme=prussian&count_private=true&cache_seconds=1801)
+![stats](https://github-readme-stats.vercel.app/api?username=Explosion-Scratch&include_all_commits=true&show_icons=true&theme=prussian&count_private=true&cache_seconds=5)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Explosion-Scratch&theme=prussian&layout=compact)](#)
 
 ##  <img src="http://cdn.onlinewebfonts.com/svg/img_256848.png" width="15px"> About me
