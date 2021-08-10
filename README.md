@@ -17,7 +17,7 @@ Hi there everyone! Welcome to my GitHub profile!
 
 <img src="https://bestanimations.com/media/explosions/933419296explosion-animation-1.gif" align="left" />
 
-Hi there! Welcome! I am now 16! Yay! Currently I'm working on a ton of stuff, for example a 🚀 [realtime file sharing service](https://github.com/explosion-scratch/ondrop). I'm also working on learning 🇫🇷 french, 🧮 algebra 2 and 🎸 guitar and mandolin! All my projects are [➡️ here ⬅️](https://slight.gq/portfolio)
+Hi there! Welcome! I am now 16! Yay! Currently I'm working on a ton of stuff, for example a [⚡ realtime file sharing service](https://github.com/explosion-scratch/ondrop). I'm also working on learning french, algebra 2 and guitar and mandolin! All my projects are [➡️ here ⬅️](https://slight.gq/portfolio). In my spare time I like to read, code, and watch the office!
 <br><br><br><br>
 <br><br><br><br>
 ##  <img src="https://www.vhv.rs/dpng/d/433-4335411_work-work-icon-png-transparent-png.png" width="15px"/> Stuff I'm working on
