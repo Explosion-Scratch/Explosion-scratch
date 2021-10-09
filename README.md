@@ -25,6 +25,6 @@ Hi there! Welcome! I am now 16! Yay! Currently I'm working on a ton of stuff, fo
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?height=100&username=Explosion-Scratch&repo=ondrop&theme=prussian)](https://github.com/explosion-scratch/ondrop)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?height=100&username=Explosion-Scratch&repo=colorizer&theme=prussian)](https://github.com/explosion-scratch/colorizer)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?height=100&username=Explosion-Scratch&repo=discord_bot&theme=prussian)](https://github.com/explosion-scratch/discord_bot)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?height=100&username=Explosion-Scratch&repo=extensions&theme=prussian)](https://github.com/explosion-scratch/extensions)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?height=100&username=Explosion-Scratch&repo=developed&theme=prussian)](https://github.com/explosion-scratch/developed)
 
 <p align=center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=explosion-scratch&" alt="explosion-scratch" /></p>
