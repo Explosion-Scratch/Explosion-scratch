@@ -7,8 +7,6 @@
 
 </div>
 
-Hi there everyone! Welcome to my GitHub profile! 
-
 <p align=center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=explosion-scratch&" alt="explosion-scratch" /></p>
 <p align=center><img align="center" src="https://raw.githubusercontent.com/Explosion-Scratch/Explosion-scratch/a407529eda6cf7c81265dae00a6eab19d1597632/github-contribution-grid-snake.svg" /></p>
 
@@ -22,18 +20,33 @@ Hi there everyone! Welcome to my GitHub profile!
      <li><a href="https://github.com/explosion-scratch/ondrop/"><img src="https://api.iconify.design/noto-v1:cloud-with-lightning.svg"> A lightning fast encrypted file sharing service</li>
      <li><a href="https://github.com/explosion-scratch/screenshot_extension/"><img src="https://api.iconify.design/noto-v1:computer-mouse.svg"> The last full page screenshot extension you'll ever need (up to 4x size, no scrolling)</li>
   </ul>
-  <h1><img src="https://api.iconify.design/ph:code-fill.svg" width="25ch"> Tech I use:</h1>
-  <ul>
-    <li><img src="https://api.iconify.design/teenyicons:javascript-outline.svg"> JavaScript</li>
-    <li><img src="https://api.iconify.design/fa6-brands:less.svg"> Less</li>
-    <li><img src="https://api.iconify.design/vscode-icons:file-type-scss.svg"> SCSS</li>
-    <li><img src="https://api.iconify.design/simple-icons:svelte.svg"> Svelte</li>
-    <li><img src="https://api.iconify.design/fontisto:vuejs.svg"> Vue.js</li>
-    <li><img src="https://api.iconify.design/teenyicons:nuxtjs-solid.svg"> Nuxt.js</li>
-    <li><img src="https://api.iconify.design/bi:github.svg"> GitHub</li>
-    <li><img src="https://api.iconify.design/akar-icons:vscode-fill.svg"> VSCode</li>
-    <li><img src="https://api.iconify.design/simple-icons:express.svg"> express.js</li>
-    <li><img src="https://api.iconify.design/simple-icons:socketdotio.svg"> socket.io</li>
-    <li><img src="https://api.iconify.design/simple-icons:pug.svg"> Pug</li>
-    <li><img src="https://api.iconify.design/simple-icons:handlebarsdotjs.svg"> Handlebars</li>
-  </ul>
+  
+  # Some recent activity
+
+<details><summary>Show activity!</summary>
+<ul>
+<li><p>2 minutes ago – <a href="https://github.com/Explosion-Scratch/Explosion-scratch/commit/b274c3ef3a80fdceef0eaeac9ac4a7c5b5173f9e"><code>b274c3e</code></a>– Create update.yml (<a href="https://github.com/Explosion-Scratch/Explosion-scratch">Explosion-Scratch/Explosion-scratch</a>)</p></li>
+<li><p>3 minutes ago – Commented in <a href="https://github.com/Explosion-Scratch/Explosion-scratch/issues/7#issuecomment-1112210233">Explosion-Scratch/Explosion-scratch</a><blockquote>Hi</blockquote></p></li>
+<li><p>3 minutes ago – Commented in <a href="https://github.com/Explosion-Scratch/Explosion-scratch/issues/8#issuecomment-1112210142">Explosion-Scratch/Explosion-scratch</a><blockquote>Check out the github action</blockquote></p></li>
+<li><p>3 minutes ago – <a href="https://github.com/Explosion-Scratch/Explosion-scratch/commit/48f8c80abc61c04ab9c575d36d1658f5080eeac1"><code>48f8c80</code></a>– Update start.md (<a href="https://github.com/Explosion-Scratch/Explosion-scratch">Explosion-Scratch/Explosion-scratch</a>)</p></li>
+<li><p>12 hours, 11 minutes ago – Commented in <a href="https://github.com/JamesCoyle/DownloadsExtension/pull/23#issuecomment-1111637431">JamesCoyle/DownloadsExtension</a><blockquote>Fixes 22 </blockquote></p></li>
+<li><p>12 hours, 11 minutes ago – opened a <a href="https://github.com/JamesCoyle/DownloadsExtension/pull/23">pull request</a> in <a href="https://github.com/JamesCoyle/DownloadsExtension">JamesCoyle/DownloadsExtension</a></p></li>
+<li><p>12 hours, 12 minutes ago – <a href="https://github.com/Explosion-Scratch/DownloadsExtension/commit/0ef056a402eed86e4f47c00dd430272931dde425"><code>0ef056a</code></a>– Add keyboard shortcut to open downloads (<a href="https://github.com/Explosion-Scratch/DownloadsExtension">Explosion-Scratch/DownloadsExtension</a>)</p></li>
+
+<li><p>16 hours, 15 minutes ago – Commented in <a href="https://github.com/darobin/notion-backup/issues/13#issuecomment-1111496140">darobin/notion-backup</a><blockquote>THANK YOU It took forever to find this and 6 whole days of my notion workspace not being backed up </blockquote></p></li>
+<li><p>17 hours, 5 minutes ago – <a href="https://github.com/Explosion-Scratch/userscripts/commit/5312d9ebce179f72dc905527c8300c74d96b1667"><code>5312d9e</code></a>– Update Discord_DontDelete.user.js (<a href="https://github.com/Explosion-Scratch/userscripts">Explosion-Scratch/userscripts</a>)</p></li>
+<li><p>3 days, 55 minutes ago – <a href="https://github.com/Bijoujs/Bijou.js/commit/da0f6afb4ac1c2e9a338c3bff2d5d840a5b3ac20"><code>da0f6af</code></a>– Bump eslint from 8.13.0 to 8.14.0 (#360) (<a href="https://github.com/Bijoujs/Bijou.js">Bijoujs/Bijou.js</a>)</p></li>
+<li><p>3 days, 55 minutes ago – Merged a <a href="https://github.com/Bijoujs/Bijou.js/pull/360">pull request</a> in <a href="https://github.com/Bijoujs/Bijou.js">Bijoujs/Bijou.js</a></p></li>
+<li><p>3 days, 14 hours, 52 minutes ago – <a href="https://github.com/Explosion-Scratch/htmlifycli/commit/7b2aaae5fb05edc73f0ec4be83ba3f08f4e45c3a"><code>7b2aaae</code></a>– v1.2.5 - Catch error (<a href="https://github.com/Explosion-Scratch/htmlifycli">Explosion-Scratch/htmlifycli</a>)</p></li>
+<li><p>3 days, 16 hours, 41 minutes ago – <a href="https://github.com/Explosion-Scratch/userscripts/commit/5aaa8d14f6a0c8b5279c95c5e63a7f7c804547e1"><code>5aaa8d1</code></a>– Create sort_tables.user.js (<a href="https://github.com/Explosion-Scratch/userscripts">Explosion-Scratch/userscripts</a>)</p></li>
+
+
+
+<li><p>5 days, 14 hours, 14 minutes ago – <a href="https://github.com/Explosion-Scratch/tools/commit/16f159697d784f0eb073b2b9fe8bc1746ff3ef78"><code>16f1596</code></a>– Cool background effect (<a href="https://github.com/Explosion-Scratch/tools">Explosion-Scratch/tools</a>)</p></li>
+<li><p>5 days, 15 hours, 28 minutes ago – <a href="https://github.com/Explosion-Scratch/tools/commit/af827d32ee7ead12d78b023dd14ab929811d919a"><code>af827d3</code></a>– Hashing (<a href="https://github.com/Explosion-Scratch/tools">Explosion-Scratch/tools</a>)</p></li>
+<li><p>5 days, 16 hours, 39 minutes ago – Commented in <a href="https://github.com/geekan/HowToLiveLonger/issues/51#issuecomment-1106855361">geekan/HowToLiveLonger</a><blockquote>Would love an english translation </blockquote></p></li>
+<li><p>5 days, 19 hours, 36 minutes ago – <a href="https://github.com/Explosion-Scratch/tools/commit/7217ae4ba780b6455f4453846d7a3310a9240a26"><code>7217ae4</code></a>– Create .nojekyll (<a href="https://github.com/Explosion-Scratch/tools">Explosion-Scratch/tools</a>)</p></li>
+<li><p>5 days, 19 hours, 40 minutes ago – <a href="https://github.com/Explosion-Scratch/tools/commit/ac08d21f6b556cb9a608688988c1141f6995e0fc"><code>ac08d21</code></a>– Update svelte.config.js (<a href="https://github.com/Explosion-Scratch/tools">Explosion-Scratch/tools</a>)</p></li>
+<li><p>5 days, 19 hours, 42 minutes ago – <a href="https://github.com/Explosion-Scratch/tools/commit/81c0347d17d0ab19db6c79621e6229ec321918d7"><code>81c0347</code></a>– Update svelte.config.js (<a href="https://github.com/Explosion-Scratch/tools">Explosion-Scratch/tools</a>)</p></li>
+</ul>
+</details>
