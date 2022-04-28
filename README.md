@@ -23,16 +23,18 @@
   
   # Some recent activity
 
+
 <details><summary>Show activity!</summary>
 <ul>
-<li><p>Just now – <a href="https://github.com/Explosion-Scratch/Explosion-scratch/commit/1965d087f83f131d2184120c9b15d5a6cbe67a1e"><code>1965d08</code></a>– Update snake.yml (<a href="https://github.com/Explosion-Scratch/Explosion-scratch">Explosion-Scratch/Explosion-scratch</a>)</p></li>
+<li><p>Just now – <a href="https://github.com/Explosion-Scratch/Explosion-scratch/commit/cc1fc5dea31684c4d7bcb3e9afb105a5d083ad6b"><code>cc1fc5d</code></a>– Update start.md (<a href="https://github.com/Explosion-Scratch/Explosion-scratch">Explosion-Scratch/Explosion-scratch</a>)</p></li>
+<li><p>1 minute ago – <a href="https://github.com/Explosion-Scratch/Explosion-scratch/commit/1965d087f83f131d2184120c9b15d5a6cbe67a1e"><code>1965d08</code></a>– Update snake.yml (<a href="https://github.com/Explosion-Scratch/Explosion-scratch">Explosion-Scratch/Explosion-scratch</a>)</p></li>
 <li><p>1 minute ago – <a href="https://github.com/Explosion-Scratch/Explosion-scratch/commit/f31c30e71f36236159ea058ce32225a62a558a5c"><code>f31c30e</code></a>– Update update.yml (<a href="https://github.com/Explosion-Scratch/Explosion-scratch">Explosion-Scratch/Explosion-scratch</a>)</p></li>
-<li><p>2 minutes ago – <a href="https://github.com/Explosion-Scratch/Explosion-scratch/commit/c4a864b5951019d57d4382d5d79f152f7e908852"><code>c4a864b</code></a>– lol stupid node-fetch (<a href="https://github.com/Explosion-Scratch/Explosion-scratch">Explosion-Scratch/Explosion-scratch</a>)</p></li>
+<li><p>3 minutes ago – <a href="https://github.com/Explosion-Scratch/Explosion-scratch/commit/c4a864b5951019d57d4382d5d79f152f7e908852"><code>c4a864b</code></a>– lol stupid node-fetch (<a href="https://github.com/Explosion-Scratch/Explosion-scratch">Explosion-Scratch/Explosion-scratch</a>)</p></li>
 <li><p>4 minutes ago – <a href="https://github.com/Explosion-Scratch/Explosion-scratch/commit/b274c3ef3a80fdceef0eaeac9ac4a7c5b5173f9e"><code>b274c3e</code></a>– Create update.yml (<a href="https://github.com/Explosion-Scratch/Explosion-scratch">Explosion-Scratch/Explosion-scratch</a>)</p></li>
-<li><p>5 minutes ago – Commented in <a href="https://github.com/Explosion-Scratch/Explosion-scratch/issues/7#issuecomment-1112210233">Explosion-Scratch/Explosion-scratch</a><blockquote>Hi</blockquote></p></li>
-<li><p>5 minutes ago – Commented in <a href="https://github.com/Explosion-Scratch/Explosion-scratch/issues/8#issuecomment-1112210142">Explosion-Scratch/Explosion-scratch</a><blockquote>Check out the github action</blockquote></p></li>
-<li><p>5 minutes ago – <a href="https://github.com/Explosion-Scratch/Explosion-scratch/commit/48f8c80abc61c04ab9c575d36d1658f5080eeac1"><code>48f8c80</code></a>– Update start.md (<a href="https://github.com/Explosion-Scratch/Explosion-scratch">Explosion-Scratch/Explosion-scratch</a>)</p></li>
-<li><p>12 hours, 13 minutes ago – Commented in <a href="https://github.com/JamesCoyle/DownloadsExtension/pull/23#issuecomment-1111637431">JamesCoyle/DownloadsExtension</a><blockquote>Fixes 22 </blockquote></p></li>
+<li><p>6 minutes ago – Commented in <a href="https://github.com/Explosion-Scratch/Explosion-scratch/issues/7#issuecomment-1112210233">Explosion-Scratch/Explosion-scratch</a><blockquote>Hi</blockquote></p></li>
+<li><p>6 minutes ago – Commented in <a href="https://github.com/Explosion-Scratch/Explosion-scratch/issues/8#issuecomment-1112210142">Explosion-Scratch/Explosion-scratch</a><blockquote>Check out the github action</blockquote></p></li>
+<li><p>6 minutes ago – <a href="https://github.com/Explosion-Scratch/Explosion-scratch/commit/48f8c80abc61c04ab9c575d36d1658f5080eeac1"><code>48f8c80</code></a>– Update start.md (<a href="https://github.com/Explosion-Scratch/Explosion-scratch">Explosion-Scratch/Explosion-scratch</a>)</p></li>
+<li><p>12 hours, 14 minutes ago – Commented in <a href="https://github.com/JamesCoyle/DownloadsExtension/pull/23#issuecomment-1111637431">JamesCoyle/DownloadsExtension</a><blockquote>Fixes 22 </blockquote></p></li>
 <li><p>12 hours, 14 minutes ago – opened a <a href="https://github.com/JamesCoyle/DownloadsExtension/pull/23">pull request</a> in <a href="https://github.com/JamesCoyle/DownloadsExtension">JamesCoyle/DownloadsExtension</a></p></li>
 <li><p>12 hours, 14 minutes ago – <a href="https://github.com/Explosion-Scratch/DownloadsExtension/commit/0ef056a402eed86e4f47c00dd430272931dde425"><code>0ef056a</code></a>– Add keyboard shortcut to open downloads (<a href="https://github.com/Explosion-Scratch/DownloadsExtension">Explosion-Scratch/DownloadsExtension</a>)</p></li>
 
@@ -40,7 +42,7 @@
 <li><p>17 hours, 7 minutes ago – <a href="https://github.com/Explosion-Scratch/userscripts/commit/5312d9ebce179f72dc905527c8300c74d96b1667"><code>5312d9e</code></a>– Update Discord_DontDelete.user.js (<a href="https://github.com/Explosion-Scratch/userscripts">Explosion-Scratch/userscripts</a>)</p></li>
 <li><p>3 days, 57 minutes ago – <a href="https://github.com/Bijoujs/Bijou.js/commit/da0f6afb4ac1c2e9a338c3bff2d5d840a5b3ac20"><code>da0f6af</code></a>– Bump eslint from 8.13.0 to 8.14.0 (#360) (<a href="https://github.com/Bijoujs/Bijou.js">Bijoujs/Bijou.js</a>)</p></li>
 <li><p>3 days, 57 minutes ago – Merged a <a href="https://github.com/Bijoujs/Bijou.js/pull/360">pull request</a> in <a href="https://github.com/Bijoujs/Bijou.js">Bijoujs/Bijou.js</a></p></li>
-<li><p>3 days, 14 hours, 54 minutes ago – <a href="https://github.com/Explosion-Scratch/htmlifycli/commit/7b2aaae5fb05edc73f0ec4be83ba3f08f4e45c3a"><code>7b2aaae</code></a>– v1.2.5 - Catch error (<a href="https://github.com/Explosion-Scratch/htmlifycli">Explosion-Scratch/htmlifycli</a>)</p></li>
+<li><p>3 days, 14 hours, 55 minutes ago – <a href="https://github.com/Explosion-Scratch/htmlifycli/commit/7b2aaae5fb05edc73f0ec4be83ba3f08f4e45c3a"><code>7b2aaae</code></a>– v1.2.5 - Catch error (<a href="https://github.com/Explosion-Scratch/htmlifycli">Explosion-Scratch/htmlifycli</a>)</p></li>
 <li><p>3 days, 16 hours, 43 minutes ago – <a href="https://github.com/Explosion-Scratch/userscripts/commit/5aaa8d14f6a0c8b5279c95c5e63a7f7c804547e1"><code>5aaa8d1</code></a>– Create sort_tables.user.js (<a href="https://github.com/Explosion-Scratch/userscripts">Explosion-Scratch/userscripts</a>)</p></li>
 
 
@@ -48,6 +50,5 @@
 <li><p>5 days, 14 hours, 16 minutes ago – <a href="https://github.com/Explosion-Scratch/tools/commit/16f159697d784f0eb073b2b9fe8bc1746ff3ef78"><code>16f1596</code></a>– Cool background effect (<a href="https://github.com/Explosion-Scratch/tools">Explosion-Scratch/tools</a>)</p></li>
 <li><p>5 days, 15 hours, 30 minutes ago – <a href="https://github.com/Explosion-Scratch/tools/commit/af827d32ee7ead12d78b023dd14ab929811d919a"><code>af827d3</code></a>– Hashing (<a href="https://github.com/Explosion-Scratch/tools">Explosion-Scratch/tools</a>)</p></li>
 <li><p>5 days, 16 hours, 42 minutes ago – Commented in <a href="https://github.com/geekan/HowToLiveLonger/issues/51#issuecomment-1106855361">geekan/HowToLiveLonger</a><blockquote>Would love an english translation </blockquote></p></li>
-<li><p>5 days, 19 hours, 39 minutes ago – <a href="https://github.com/Explosion-Scratch/tools/commit/7217ae4ba780b6455f4453846d7a3310a9240a26"><code>7217ae4</code></a>– Create .nojekyll (<a href="https://github.com/Explosion-Scratch/tools">Explosion-Scratch/tools</a>)</p></li>
 </ul>
 </details>
