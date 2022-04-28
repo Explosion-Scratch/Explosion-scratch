@@ -1,24 +1,24 @@
 # <div align="center">--Explosion--</div>
 
+<div align=center>
+  
 ![--Explosion's GitHub followers](https://img.shields.io/github/followers/Explosion-Scratch?color=00bbbb&style=for-the-badge&logo=github&logoColor=fff) 
 ![GitHub visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=explosion-scratch.visitor.badge.reloaded&color=00bbbb&style=for-the-badge&logo=github)
 
-Hi there everyone! Welcome to my GitHub profile! 
+</div>
 
-##  <img src="https://static.thenounproject.com/png/5639-200.png" alt="Statistics Icons - Download Free Vector Icons | Noun Project" width="15px"/> My stats
-![stats](https://github-readme-stats.vercel.app/api?username=Explosion-Scratch&include_all_commits=true&show_icons=true&theme=prussian&count_private=true&cache_seconds=5)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Explosion-Scratch&theme=prussian&layout=compact)](#)
+<p align=center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=explosion-scratch&" alt="explosion-scratch" /></p>
+<p align=center><img align="center" src="https://raw.githubusercontent.com/Explosion-Scratch/Explosion-scratch/a407529eda6cf7c81265dae00a6eab19d1597632/github-contribution-grid-snake.svg" /></p>
 
-##  <img src="http://cdn.onlinewebfonts.com/svg/img_256848.png" width="15px"> About me
+<h1><img src="https://api.iconify.design/noto-v1:beaming-face-with-smiling-eyes.svg" width="25ch"> About me</h1>
+  <p>I am a full stack web developer, I've been coding for about 2 years now, and eventually I want to get a job in coding. Here are some of my recent projects:</p>
 
-<img src="https://bestanimations.com/media/explosions/933419296explosion-animation-1.gif" align="left" />
-
-Hi there! Welcome! I am a 15 year old coder, guitarist and an avid reader! I really like to make stuff on [scratch](https://scratch.mit.edu/users/--explosion--) I like to code a bunch of 3d stuff in a software called [Blender](blender.org). Recently I have moved away from scratch and worked more on coding in python and HTML/CSS/JavaScript (mostly JavaScript). You can find some of my best projects linked below, and on [repl.it](https://repl.it/@ExplosionScratc). In my spare time I like to code, read, play guitar, and.... Code more. 🤦 Right now I am working on a project called [Bijou.js](https://bijou.js.org) which is full of useful JavaScript functions that I use all the time! You can find that on it's [website](https://bijou.js.org) or on the [GitHub repo for it](https://github.com/bijoujs/bijou.js)!
-<br><br><br><br>
-<br><br><br><br>
-##  <img src="https://www.vhv.rs/dpng/d/433-4335411_work-work-icon-png-transparent-png.png" width="15px"/> Stuff I'm working on
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?height=100&username=bijoujs&repo=Bijou.js&theme=prussian)](https://bijou.js.org)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?height=100&username=Explosion-Scratch&repo=colorizer&theme=prussian)](https://github.com/explosion-scratch/colorizer)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?height=100&username=Explosion-Scratch&repo=discord_bot&theme=prussian)](https://github.com/explosion-scratch/discord_bot)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?height=100&username=Explosion-Scratch&repo=extensions&theme=prussian)](https://github.com/explosion-scratch/extensions)
+  <ul>
+     <li><a href="https://github.com/explosion-scratch/podcasts_player"><img src="https://api.iconify.design/noto-v1:musical-notes.svg"> Vue.js Podcasts Player</li>
+     <li><a href="https://github.com/explosion-scratch/recipes/"><img src="https://api.iconify.design/noto-v1:face-savoring-food.svg"> A recipe scraper that sorts the actual recipe from the junk</li>
+     <li><a href="https://github.com/explosion-scratch/stackoverflow_import/"><img src="https://api.iconify.design/noto-v1:man-technologist-medium-light-skin-tone.svg"> Directly import JavaScript code from StackOverflow (syntax checking, babel parsing + more!)</li>
+     <li><a href="https://github.com/explosion-scratch/ondrop/"><img src="https://api.iconify.design/noto-v1:cloud-with-lightning.svg"> A lightning fast encrypted file sharing service</li>
+     <li><a href="https://github.com/explosion-scratch/screenshot_extension/"><img src="https://api.iconify.design/noto-v1:computer-mouse.svg"> The last full page screenshot extension you'll ever need (up to 4x size, no scrolling)</li>
+  </ul>
+  
+  # Some recent activity
