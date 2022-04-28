@@ -79,4 +79,4 @@ jobs:
       - run: rm -rf node_modules
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "YEET DID IT WORK?!?!!"
+          commit_message: Autogenerate activity
