@@ -14,11 +14,11 @@
   <p>I am a full stack web developer, I've been coding for about 2 years now, and eventually I want to get a job in coding. Here are some of my recent projects:</p>
 
   <ul>
-     <li><a href="https://github.com/explosion-scratch/podcasts_player"><img src="https://api.iconify.design/noto-v1:musical-notes.svg"> Vue.js Podcasts Player</li>
-     <li><a href="https://github.com/explosion-scratch/recipes/"><img src="https://api.iconify.design/noto-v1:face-savoring-food.svg"> A recipe scraper that sorts the actual recipe from the junk</li>
-     <li><a href="https://github.com/explosion-scratch/stackoverflow_import/"><img src="https://api.iconify.design/noto-v1:man-technologist-medium-light-skin-tone.svg"> Directly import JavaScript code from StackOverflow (syntax checking, babel parsing + more!)</li>
-     <li><a href="https://github.com/explosion-scratch/ondrop/"><img src="https://api.iconify.design/noto-v1:cloud-with-lightning.svg"> A lightning fast encrypted file sharing service</li>
-     <li><a href="https://github.com/explosion-scratch/screenshot_extension/"><img src="https://api.iconify.design/noto-v1:computer-mouse.svg"> The last full page screenshot extension you'll ever need (up to 4x size, no scrolling)</li>
+     <li><a href="https://github.com/explosion-scratch/podcasts_player"><img src="https://api.iconify.design/noto-v1:musical-notes.svg"> Vue.js Podcasts Player</a></li>
+     <li><a href="https://github.com/explosion-scratch/recipes/"><img src="https://api.iconify.design/noto-v1:face-savoring-food.svg"> A recipe scraper that sorts the actual recipe from the junk</a></li>
+     <li><a href="https://github.com/explosion-scratch/stackoverflow_import/"><img src="https://api.iconify.design/noto-v1:man-technologist-medium-light-skin-tone.svg"> Directly import JavaScript code from StackOverflow (syntax checking, babel parsing + more!)</a></li>
+     <li><a href="https://github.com/explosion-scratch/ondrop/"><img src="https://api.iconify.design/noto-v1:cloud-with-lightning.svg"> A lightning fast encrypted file sharing service</a></li>
+     <li><a href="https://github.com/explosion-scratch/screenshot_extension/"><img src="https://api.iconify.design/noto-v1:computer-mouse.svg"> The last full page screenshot extension you'll ever need (up to 4x size, no scrolling)</a></li>
   </ul>
   
   # Some recent activity
