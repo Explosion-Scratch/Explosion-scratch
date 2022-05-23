@@ -1,4 +1,7 @@
-# <div align="center">--Explosion--</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/61319150/169753065-1659a66c-faf9-4e8f-b065-b42205df4952.png">
+  <img src="https://user-images.githubusercontent.com/61319150/169753029-4ebc7808-4c64-4203-a880-02b38084cca4.png">
+</picture>
 
 <div align=center>
   
