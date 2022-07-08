@@ -1,5 +1,5 @@
 on:
-  push:
+  never:
   workflow_dispatch:
 
 jobs:
