@@ -17,6 +17,7 @@
   <p>I am a full stack web developer, I've been coding for about 2 years now, and eventually I want to get a job in coding. Here are some of my recent projects:</p>
 
   <ul>
+    <li><a href="https://github.com/explosion-scratch/tools"><img src="https://api.iconify.design/twemoji:hammer-and-wrench.svg"> A large collection of various tools</a></li>
      <li><a href="https://github.com/explosion-scratch/podcasts_player"><img src="https://api.iconify.design/noto-v1:musical-notes.svg"> Vue.js Podcasts Player</a></li>
      <li><a href="https://github.com/explosion-scratch/recipes/"><img src="https://api.iconify.design/noto-v1:face-savoring-food.svg"> A recipe scraper that sorts the actual recipe from the junk</a></li>
      <li><a href="https://github.com/explosion-scratch/stackoverflow_import/"><img src="https://api.iconify.design/noto-v1:man-technologist-medium-light-skin-tone.svg"> Directly import JavaScript code from StackOverflow (syntax checking, babel parsing + more!)</a></li>
