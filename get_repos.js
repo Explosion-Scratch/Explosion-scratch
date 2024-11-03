@@ -1,5 +1,6 @@
 import { Octokit } from "@octokit/rest";
 import fs from "fs";
+import "dotenv/config";
 
 /*
 ENV NEEDED:

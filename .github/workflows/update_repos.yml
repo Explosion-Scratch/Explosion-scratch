@@ -3,12 +3,17 @@ on:
   schedule:
     - cron: "0 * * * *"
   workflow_dispatch:
+  push:
+
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
+      - name: Make envfile
+        uses: SpicyPizza/create-envfile@v2.0
 
       - uses: pnpm/action-setup@v4
         name: Install pnpm
