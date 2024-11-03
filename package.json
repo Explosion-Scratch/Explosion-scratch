@@ -1,8 +1,6 @@
 {
   "dependencies": {
-    "bijou.js": "^8.2.4",
-    "isomorphic-fetch": "^3.0.0",
-    "markdown-escape": "^1.1.0",
-    "showdown": "^2.1.0"
-  }
+    "@octokit/rest": "^21.0.2"
+  },
+  "type": "module"
 }
