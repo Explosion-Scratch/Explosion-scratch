@@ -19,13 +19,13 @@
 <ul>
   <!-- START -->	
 <li><a href="https://github.com/Explosion-Scratch/apple-intelligence-prompts">🍎 <b>apple-intelligence-prompts</b></a>: <i>System prompts from Apple's new Apple Intelligence on MacOS Sequoia</i></li>	
-<li><a href="https://github.com/Explosion-Scratch/blog">📰 <b>blog</b></a>: <i>A beautiful blog using Nuxt.js</i></li>	
+<li><a href="https://github.com/Explosion-Scratch/blog">✍️ <b>blog</b></a>: <i>A beautiful blog using Nuxt.js</i></li>	
 <li><a href="https://github.com/Explosion-Scratch/claude-unofficial-api">🤖 <b>claude-unofficial-api</b></a>: <i>Unofficial API for Claude-2 via Claude Web (Also CLI)</i></li>	
-<li><a href="https://github.com/Explosion-Scratch/firebuilder">🦊 <b>firebuilder</b></a>: <i>A comprehensive firefox profile, themes, userCSS and userChrome builder</i></li>	
-<li><a href="https://github.com/Explosion-Scratch/i6c-starred-this-repo">⭐️ <b>i6c-starred-this-repo</b></a>: <i>Star to change the repo title to your username!</i></li>	
-<li><a href="https://github.com/Explosion-Scratch/OnDrop">📁 <b>OnDrop</b></a>: <i>⚡ The best way to share files! ⚡</i></li>	
+<li><a href="https://github.com/Explosion-Scratch/firebuilder">🔥 <b>firebuilder</b></a>: <i>A comprehensive firefox profile, themes, userCSS and userChrome builder</i></li>	
+<li><a href="https://github.com/Explosion-Scratch/i6c-starred-this-repo">⭐ <b>i6c-starred-this-repo</b></a>: <i>Star to change the repo title to your username!</i></li>	
+<li><a href="https://github.com/Explosion-Scratch/OnDrop">💻 <b>OnDrop</b></a>: <i>⚡ The best way to share files! ⚡</i></li>	
 <li><a href="https://github.com/Explosion-Scratch/screenshot_extension">📸 <b>screenshot_extension</b></a>: <i>A full page screen capture extension that captures super high resolution, and doesn't scroll</i></li>	
-<li><a href="https://github.com/Explosion-Scratch/webrtc">📱 <b>webrtc</b></a>: <i>WebRTC screen sharing via Peer.js! Feel free to try it!</i></li>	
+<li><a href="https://github.com/Explosion-Scratch/webrtc">📹 <b>webrtc</b></a>: <i>WebRTC screen sharing via Peer.js! Feel free to try it!</i></li>	
 <!-- END -->
 </ul>
 
