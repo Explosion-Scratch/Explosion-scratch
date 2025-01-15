@@ -25,7 +25,7 @@
 <li><a href="https://github.com/Explosion-Scratch/i6c-starred-this-repo">⭐️ <b>i6c-starred-this-repo</b></a>: <i>Star to change the repo title to your username!</i></li>	
 <li><a href="https://github.com/Explosion-Scratch/OnDrop">📁 <b>OnDrop</b></a>: <i>⚡ The best way to share files! ⚡</i></li>	
 <li><a href="https://github.com/Explosion-Scratch/screenshot_extension">📸 <b>screenshot_extension</b></a>: <i>A full page screen capture extension that captures super high resolution, and doesn't scroll</i></li>	
-<li><a href="https://github.com/Explosion-Scratch/svelteflowy">📝 <b>svelteflowy</b></a>: <i>A workflowy clone written in Svelte, that aims to be pixel perfect!</i></li>	
+<li><a href="https://github.com/Explosion-Scratch/svelteflowy">🗒️ <b>svelteflowy</b></a>: <i>A workflowy clone written in Svelte, that aims to be pixel perfect!</i></li>	
 <li><a href="https://github.com/Explosion-Scratch/webrtc">📹 <b>webrtc</b></a>: <i>WebRTC screen sharing via Peer.js! Feel free to try it!</i></li>	
 <!-- END -->
 </ul>
